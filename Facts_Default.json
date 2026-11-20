@@ -1,0 +1,76 @@
+{
+    "version": 1,
+    "PRODUCTIVITY": [
+        "Your inbox is a to-do list owned by someone else.",
+        "Switching tasks typically has a hidden time cost.",
+        "Done is often better than perfect.",
+        "Most meetings need less time than scheduled.",
+        "Context switching is the enemy of deep work.",
+        "A 2-minute task becomes a 20-minute distraction surprisingly fast."
+    ],
+    "HEALTH": [
+        "Standing up regularly improves circulation.",
+        "Drink water you idiot.",
+        "Drinking water now is easier than fixing dehydration later.",
+        "Your eyes appreciate looking 20 feet away every 20 minutes.",
+        "A short walk can improve focus more than another coffee.",
+        "Good sleep is a productivity tool.",
+        "Stretch your neck. Future you will approve."
+    ],
+    "ENGINEERING": [
+        "The TGV world speed record reached 574.8 km/h.",
+        "Most engineering failures start as communication failures.",
+        "Every kilogram removed from a vehicle matters twice.",
+        "The simplest solution is usually easier to maintain.",
+        "Nature has already solved many engineering problems.",
+        "If it's not tested, it's an assumption.",
+        "Tolerance stack-ups don't care about your schedule.",
+        "A prototype teaches more than a presentation.",
+        "Gravity remains undefeated."
+    ],
+    "TRAINS": [
+        "Steel wheels on steel rails have extremely low rolling resistance.",
+        "Rail can move a ton of freight hundreds of kilometers on surprisingly little energy.",
+        "The first railways were pulled by horses, not locomotives.",
+        "High-speed trains can travel faster than many small aircraft on short routes.",
+        "A flat spot on a wheel can sometimes be heard kilometers away.",
+        "Modern trains constantly monitor themselves while running.",
+        "Somewhere, a rail enthusiast is taking a picture of a perfectly normal train."
+    ],
+    "FUN FACT": [
+        "Bananas are berries. Strawberries are not.",
+        "Octopuses have three hearts.",
+        "Honey can remain edible for thousands of years.",
+        "A day on Venus is longer than its year.",
+        "Sharks existed before trees.",
+        "There are more possible chess games than atoms in the observable universe."
+    ],
+    "COOL BUG FACT": [
+        "One day you will have to pay for your actions.",
+        "The bug knows exactly when the demo starts.",
+        "Removing one line of code can create twelve new problems.",
+        "The bug was reported as intermittent and took that personally.",
+        "A workaround is just a bug with good PR.",
+        "The bug only reproduces when nobody is watching.",
+        "The root cause is always in the last place you look.",
+        "This notification may contain a race condition."
+    ],
+    "SUSPENSION": [
+        "Ride comfort is mostly about managing energy.",
+        "Every stiffness increase solves one problem and creates another.",
+        "Unsprung mass never sleeps.",
+        "A good damper dissipates energy, not magic.",
+        "The tire is the first suspension element.",
+        "Customers notice vibrations long before they understand them.",
+        "Every vehicle is a compromise moving at speed."
+    ],
+    "MOTIVATION": [
+        "You have survived 100% of your Monday mornings."
+    ],
+    "WARNING": [
+        "Check posture. This is not a request."
+    ],
+    "IMPORTANT": [
+        "Take a breath. The bug can wait 5 seconds."
+    ]
+}
