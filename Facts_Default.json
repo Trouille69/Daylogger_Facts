@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "PRODUCTIVITY": [
         "Your inbox is a to-do list owned by someone else.",
         "Switching tasks typically has a hidden time cost.",
@@ -26,7 +26,15 @@
         "If it's not tested, it's an assumption.",
         "Tolerance stack-ups don't care about your schedule.",
         "A prototype teaches more than a presentation.",
-        "Gravity remains undefeated."
+        "Gravity remains undefeated.",
+        "If you don't schedule maintenance, the machine will schedule it for you.",
+        "Every sensor measures two things: the signal and your assumptions.",
+        "Nothing is more permanent than a temporary fix.",
+        "The first unit is a prototype. The second is the real prototype.",
+        "Engineering is the art of making trade-offs look intentional.",
+        "The cheapest design change happens before the first drawing.",
+        "Physics reviews every design eventually.",
+        "Every system is perfectly designed to produce its current results."
     ],
     "TRAINS": [
         "Steel wheels on steel rails have extremely low rolling resistance.",
@@ -35,7 +43,10 @@
         "High-speed trains can travel faster than many small aircraft on short routes.",
         "A flat spot on a wheel can sometimes be heard kilometers away.",
         "Modern trains constantly monitor themselves while running.",
-        "Somewhere, a rail enthusiast is taking a picture of a perfectly normal train."
+        "Somewhere, a rail enthusiast is taking a picture of a perfectly normal train.",
+        "Modern high-speed trains spend more energy fighting air than rolling resistance.",
+        "Most passengers only notice good engineering when it fails.",
+        "A smooth ride is usually the result of thousands of compromises."
     ],
     "FUN FACT": [
         "Bananas are berries. Strawberries are not.",
@@ -53,7 +64,8 @@
         "A workaround is just a bug with good PR.",
         "The bug only reproduces when nobody is watching.",
         "The root cause is always in the last place you look.",
-        "This notification may contain a race condition."
+        "This notification may contain a race condition.",
+        "The issue is always obvious after you find it."
     ],
     "SUSPENSION": [
         "Ride comfort is mostly about managing energy.",
@@ -65,7 +77,7 @@
         "Every vehicle is a compromise moving at speed."
     ],
     "MOTIVATION": [
-        "You have survived 100% of your Monday mornings."
+        "You have survived 100% of your Monday mornings, for now."
     ],
     "WARNING": [
         "Check posture. This is not a request."
